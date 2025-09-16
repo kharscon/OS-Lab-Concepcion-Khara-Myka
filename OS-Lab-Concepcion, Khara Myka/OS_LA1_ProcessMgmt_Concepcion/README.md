@@ -12,11 +12,11 @@ Building in VS Code:
 -Open Terminal:
 -View > Terminal (or <kbd>Ctrl</kbd> + <kbd>`</kbd>).
 -Compile your program:
-![Screenshot](screenshots/TASKA.png)
+![Screenshot](screenshots/TASK_A.png)
 
 Sample Outputs: 
 Running the Program:
-![Screenshot](screenshots/TASK.png)
+![Screenshot](screenshots/TASK_B.png)
 
 Viewing the Program:
 ![Screenshot](screenshots/TASK_D.png)
