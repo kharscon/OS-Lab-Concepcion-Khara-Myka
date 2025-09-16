@@ -34,8 +34,11 @@ If the program exits instantly, you may not catch it with Get-Process.
 Process Management:
 
 -Get-Process child_echo shows the running process only while it’s alive.
+
 -Stop-Process -Id <PID> stops the process immediately.
+
 -Normal Termination: Your program finishes and runs all cleanup code.
+
 -Forced Termination: The process is killed; any cleanup after the current instruction will not run.
 
 
