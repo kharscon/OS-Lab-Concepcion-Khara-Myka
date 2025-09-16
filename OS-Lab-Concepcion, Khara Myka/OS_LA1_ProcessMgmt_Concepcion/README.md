@@ -16,7 +16,7 @@ Building in VS Code:
 
 Sample Outputs: 
 Running the Program:
-![Screenshot](screenshots/TASK_A.png)
+![Screenshot](screenshots/TASK_B.png)
 
 Viewing the Program:
 ![Screenshot](screenshots/TASK_D.png)
