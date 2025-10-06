@@ -15,7 +15,8 @@
 
   ![Screenshot](screenshots/fcfs2.png)
 
-  2. SJF (Shortest Job First)
+
+ 2. SJF (Shortest Job First)
      
 - SJF schedules the process with the shortest burst time next.
 It can be implemented as either preemptive (Shortest Remaining Time First, SRTF) or non-preemptive.
